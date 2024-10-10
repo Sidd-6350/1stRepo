@@ -1,2 +1,2 @@
 # 1stRepo
-Repo is for practice
+This Repo is for practice
